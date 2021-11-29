@@ -1,0 +1,17 @@
+#resumoaula1
+
+De 0 a 10, que nota você daria para a primeira aula?
+
+Quais foram os pontos mais importantes que você aprendeu na aula?
+
+O que você vai começar a aplicar imediatamente?
+
+O que mais você gostaria de aprender nas próximas aulas da Maratona?
+
+
+-----------------------------------------------------------------------
+
+Anotaçãoes
+
+https://colab.research.google.com/
+

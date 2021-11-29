@@ -1,0 +1,21 @@
+Curso "Ciencias de Dados na Pratica"
+https://cientistadedadosnapratica.com.br/maratona-oct21?blog=xan1ofvl&video=3o4tc2tee
+
+
+
+Anotaçãoes
+
+https://colab.research.google.com/
+
+
+nos arquivos *.ipynb faz a importação das bibliotecas de Machine learn (RandonForest)
+
+
+pesquisar vagas de cientista de dados
+
+
+procurar no site Glassdor ou indeed por:
+
+Cientista de dados
+
+Data scientist
